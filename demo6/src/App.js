@@ -9,6 +9,7 @@ function App() {
           <ul>
             <li style={{ '--i': 99 }}>Features</li>  
             <li style={{ '--i': 8 }}>8</li>  
+            <li style={{ '--i': 7 }}>7</li>  
             <li style={{ '--i': 6 }}>6</li>  
             <li style={{ '--i': 5 }}>5</li>  
             <li style={{ '--i': 4 }}>4</li>  
