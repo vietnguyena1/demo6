@@ -7,7 +7,8 @@ function App() {
       <header className="App-header">
         <div class="container">
           <ul>
-            <li style={{ '--i': 2 }}>Features</li>  
+            <li style={{ '--i': 4 }}>Features</li>  
+            <li style={{ '--i': 3 }}>3</li>  
             <li style={{ '--i': 1 }}>1</li>  
           </ul>
         </div>
