@@ -8,6 +8,7 @@ function App() {
         <div class="container">
           <ul>
             <li style={{ '--i': 99 }}>Features</li>  
+            <li style={{ '--i': 10 }}>10</li>  
             <li style={{ '--i': 8 }}>8</li>  
             <li style={{ '--i': 7 }}>7</li>  
             <li style={{ '--i': 6 }}>6</li>  
